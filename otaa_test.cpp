@@ -190,7 +190,3 @@ int main(void)
     bcm2835_close();
     return 0;
 }
-
-DevEUI : B827EBC9337D0400
-AppEUI: 692a41b807e9f840
-Appkey: 5ccc419a5f85614a7856d8c9ccef5193
